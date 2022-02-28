@@ -2,4 +2,4 @@
 Assignment 1 - CSE508: Information Retrieval
 
 
-Implementaion of Unigram Inverted Index Data Structure and Positional index Data Structure with Boolean Queries
+Implementaion of Unigram Inverted Index data structure and Positional Index data structure with Boolean Queries
